@@ -69,7 +69,7 @@ streamlit run app.py
 > 🔹 Recommended: Use a separate Conda environment to avoid conflicts
 
 ```bash
-conda create -n tf python=3.10
+conda create -n tf python=3.12
 conda activate tf
 pip install -r requirements.txt
 ```
