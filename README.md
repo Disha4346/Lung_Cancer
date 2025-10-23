@@ -41,7 +41,7 @@ Both models serve as a decision-support system to assist healthcare professional
 ## 📌 Live Deployment
 
 Try the live application here 👇  
-🔗 **Streamlit Deployment:** _Coming Soon!_
+🔗 **Streamlit Deployment:** [https://lungcancer-77.streamlit.app/](Link for deployed version)
 
 ---
 
@@ -105,10 +105,8 @@ Dataset source:
 
 | Model     | Accuracy | Technique                           |
 | --------- | -------- | ----------------------------------- |
-| ML Model  | ~90%     | Logistic Regression / Random Forest |
-| CNN Model | ~95%     | Custom CNN with Data Augmentation   |
-
-*(Update with your actual evaluation results)*
+| ML Model  | ~95%     | Logistic Regression / Random Forest |
+| CNN Model | ~92%     | Custom CNN with Data Augmentation   |
 
 ---
 
