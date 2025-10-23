@@ -50,7 +50,7 @@ Try the live application here 👇
 Clone the repository:
 
 ```bash
-git clone <REPOSITORY_URL>
+git clone https://github.com/Disha4346/Lung_Cancer.git
 cd LungCancerDetection
 ````
 
